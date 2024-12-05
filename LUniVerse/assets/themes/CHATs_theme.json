@@ -1,0 +1,14 @@
+{
+    "light": {
+        "bg": "#FFFFFF",
+        "text": "#000000",
+        "gray_text": "#808080",
+        "hover": "#DDDDDD"
+    },
+    "dark": {
+        "bg": "#000000",
+        "text": "#FFFFFF",
+        "gray_text": "#AAAAAA",
+        "hover": "#444444"
+    }
+}
